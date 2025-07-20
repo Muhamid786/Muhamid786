@@ -5,7 +5,7 @@ Welcome to my little corner of GitHub. Pull up a chair, grab a coffee ☕, and l
 ---
 
 - 👨‍💻 **About Me:**  
-  I'm @Muhamid786 — a curious mind passionate about crafting code that not only works but tells a story. From solving complex problems to creating intuitive user experiences, I thrive on turning ideas into reality.
+  I'm Muhamid — a curious mind passionate about crafting code that not only works but tells a story. From solving complex problems to creating intuitive user experiences, I thrive on turning ideas into reality.
 
 - 🚀 **What I'm Up To:**  
   Currently diving deep into **[Embedded Systems, Neural Networks, Machine Learning, Drones n' UAVs development]** and experimenting with some small and big side projects that keep me up at night (in a good way 😉).
